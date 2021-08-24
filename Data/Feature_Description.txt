@@ -1,0 +1,36 @@
+High Frequency Data
+
+- CURRENT(Amperes)
+- PRESS_DESC: Discharge Pressure (Psi)
+- FREQUENCY(Hz)
+- PRES_INT: Intake Pressure (Psi)
+- TEMP_INT: Intake Temperature (°F)
+- TEMP_MOT: Engine temperature (°F)
+- OUT_VOLT: Output Voltage (V)
+- PRES_INTK: Intake Pressure (Psi)
+- TEMP_INTK: Intake Temperature (°F)
+- Vibration: 
+	Normal Range Values lie between 0 - 0.8
+	Sensor shows alerts when tren is up
+	Values over 10 could mean wrong information (noise) or damage in the pumps
+	Outliers in the readings mean piezoelectric is damaged
+	
+
+Production Data
+
+- BFPD: Barrels of Fluid per Day	
+- BOPD: Barrels of Oil per Day	
+- BWPD: Barrels of Water per Day
+- MSCF: Million of Standard Cubic Feet
+- BSW: Basic sediment and water (%)
+- GOR(MSFC/BPPD): Gas-oil Relation
+- GLR(SCF/BFPD): Gas-liquid Relation
+- API: Oil API Gravity
+- FREC(Hz): Frequency	
+- PIP(PSI):  Pump intake pressure
+- PROF_INTAKE(ft): Intake Depth 
+- AMPERAGE: Current
+- PUMP: Pump name
+- PSI_CAB: Wellhead Pressure
+
+
